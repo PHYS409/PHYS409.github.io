@@ -3,13 +3,13 @@ project:
   output-dir: .
 
 website:
-  title: "PHYS 308"
+  title: "PHYS 409"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: https://phys308.github.io/Fall2024/
-        text: "Fall 2024" 
+      - href: https://phys409.github.io/Winter2025/
+        text: "Winter 2025" 
         target: _blank #makes it open in new page
 
 format:
