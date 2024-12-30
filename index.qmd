@@ -1,0 +1,22 @@
+---
+title: "PHYS 409"
+format: 
+  html:
+    link-external-newwindow: true
+editor: visual
+jupyter: python3
+---
+
+# PHYS 409 Quantum Theory
+
+![xkcd: Elementary Physics Paths](https://imgs.xkcd.com/comics/elementary_physics_paths.png)
+
+From [xkcd.com](https://www.xkcd.com/2933/)
+
+## Course Description
+
+A formal treatment of quantum theory using Dirac notation, including an introduction to approximation methods and their applications. The general theory of angular momentum and time-independent perturbation theory are developed and used to derive the fine and hyperfine structures of hydrogen. Additional topics may include quantum statistics, quantum dynamics, and time-dependent perturbation theory. 
+
+## Prerequisites
+
+PHYS 308
