@@ -4,7 +4,7 @@ format:
   html:
     link-external-newwindow: true
 editor: visual
-jupyter: python3
+
 ---
 
 # PHYS 409 Quantum Theory
