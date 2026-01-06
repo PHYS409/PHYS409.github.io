@@ -11,6 +11,9 @@ website:
       - href: https://phys409.github.io/Winter2025/
         text: "Winter 2025" 
         target: _blank #makes it open in new page
+      - href: https://phys409.github.io/Winter2026/
+        text: "Winter 2026" 
+        target: _blank #makes it open in new page
 
 format:
   html:
